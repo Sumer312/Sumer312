@@ -4,7 +4,7 @@
 <br />
 👨‍🎓 Completed my Bachelor's of Technology in Information Technology
 <br />
-[📄 **My resume** *(click me)* ](https://drive.google.com/file/d/1p4QD5hbani7dt73z_AVqF7gt-pWxD3zz/view?usp=sharing)
+[📄 **My resume** *(click me)* ](https://drive.google.com/file/d/1HVFw2j1IfN3nqbgIVwFIayxeqJjgzEnZ/view?usp=sharing)
 <br />
 [✒️ **Leetcode Profile** *(click me)*](https://leetcode.com/u/sumer_singh/)
 <br />
