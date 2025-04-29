@@ -6,8 +6,6 @@
 <br />
 [📄 **My resume** _(click me)_ ](https://drive.google.com/file/d/1HVFw2j1IfN3nqbgIVwFIayxeqJjgzEnZ/view?usp=sharing)
 <br />
-[✒️ **Leetcode Profile** _(click me)_](https://leetcode.com/u/sumer_singh/)
-<br />
 
 ## 💻 My Skills:
 
@@ -35,8 +33,11 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express_JS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff&style=for-the-badge)
 ![SolidJS](https://img.shields.io/badge/Solid_JS-2c4f7c?style=for-the-badge&logo=solid&logoColor=fff)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=f00&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
