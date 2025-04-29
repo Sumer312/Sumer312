@@ -6,6 +6,8 @@
 <br />
 [📄 **My resume** _(click me)_ ](https://drive.google.com/file/d/1HVFw2j1IfN3nqbgIVwFIayxeqJjgzEnZ/view?usp=sharing)
 <br />
+<!-- [✒️ **Leetcode Profile** _(click me)_](https://leetcode.com/u/sumer_singh/) -->
+<!-- <br /> -->
 
 ## 💻 My Skills:
 
